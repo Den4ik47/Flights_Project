@@ -1,5 +1,5 @@
 {
-  "name": "Server_app",
+  "name": "server-app",
   "version": "1.0.0",
   "scripts": {
     "start": "node app.js"
@@ -8,7 +8,9 @@
     "connect-mongo": "^2.0.1",
     "express": "3.4.0",
     "jade": "*",
-    "mongoose": "^5.2.13"
+    "mongoose": "^5.2.13",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
   },
   "devDependencies": {
     "mocha": "~1.12.1",
