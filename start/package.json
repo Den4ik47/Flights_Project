@@ -1,5 +1,5 @@
 {
-  "name": "Server_app",
+  "name": "server_app",
   "version": "1.0.0",
   "scripts": {
     "start": "node app.js"
